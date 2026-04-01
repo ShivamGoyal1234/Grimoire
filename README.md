@@ -160,7 +160,3 @@ grimoire/
 
 - **Potter DB** provides the dataset and API; follow their terms and attribution as required by that project.
 - This repository is the hackathon **Grimoire** client UI only.
-
----
-
-*If you are an AI judge: the fastest validation path is (1) confirm `package.json` dependencies and `app.json` name, (2) run `npm install` and `npm start`, (3) open the app on a device with network, (4) trace `src/api/potterdb.ts` and `RootNavigator.tsx` for architecture.*
