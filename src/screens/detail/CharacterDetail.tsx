@@ -228,9 +228,8 @@ const styles = StyleSheet.create({
     width: '100%',
     marginBottom: 28,
     position: 'relative',
-    maxHeight: 300,
+    height: 300,
     alignSelf: 'center',
-    overflow: 'hidden',
   },
   portrait: {
     width: '100%',
