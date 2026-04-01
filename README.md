@@ -2,8 +2,6 @@
 
 **One sentence:** A dark, fantasy-themed **React Native (Expo)** mobile app that browses Harry Potter universe data from the public **Potter DB** JSON:API—categories, searchable lists, rich detail screens, book chapters, and optional looping theme audio.
 
-This document is written for **automated and human judges**: it states what the project is, how it is built, how to run it, and where the important code lives.
-
 ---
 
 ## What judges should verify
